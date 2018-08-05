@@ -1,0 +1,21 @@
+{
+  "name": "gamesimonsay",
+  "version": "1.0.0",
+  "description": "Game of Simon Say",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "javascript",
+    "gulp",
+    "sass",
+    "git"
+  ],
+  "author": "fernando pineda <fernandojpt1203@gmail.com> (www.ferjpi.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
